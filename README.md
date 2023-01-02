@@ -3,7 +3,7 @@
 - 🌱 I’m currently working in brandjaws
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-hassanikram84@gmaail.com
+hassanikram84@gmail.com
 
 <!---
 hassan-siraj/hassan-siraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
